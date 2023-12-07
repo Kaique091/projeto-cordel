@@ -69,12 +69,12 @@
     text-shadow: 1px 1px 0px black;
    }
    section#img01{
-background-image: url(../projedo-cordel/imagens/background001.jpg);
+background-image: url(../projeto-cordel/imagens/background001.jpg);
 background-position: right center;
 background-size: cover;
    }
 section#img02{
- background-image: url(../projedo-cordel/imagens/background002.jpg);
+ background-image: url(../projeto-cordel/imagens/background002.jpg);
  background-size: cover;
 }
 
